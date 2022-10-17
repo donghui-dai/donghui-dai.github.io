@@ -18,7 +18,7 @@ At HKPU, my chief supervisor is [Dr. Ray Yang](https://www4.comp.polyu.edu.hk/~c
 ## Visitors
 
 <body>
-    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=8x3E6LKIF0WA-pryS_j53GNNEBhEaMCRTgsxIeCzIpo"></script>
+    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8x3E6LKIF0WA-pryS_j53GNNEBhEaMCRTgsxIeCzIpo&cl=ffffff&w=a"></script>
 </body>
 
 <hr style="border:1px solid gray"/> 
