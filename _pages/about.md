@@ -15,10 +15,10 @@ At HKPU, my chief supervisor is [Dr. Ray Yang](https://www4.comp.polyu.edu.hk/~c
 <i>There is no royal road to learning.</i>
 
 
-## My Visitors
+## Visitors
 
 <body>
-  <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=A-l8y8MAk8WlxPeeIgSA34pNYGGhU2Wx8IwVfkt_zno&cl=ffffff&w=a"></script>
+    <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=8x3E6LKIF0WA-pryS_j53GNNEBhEaMCRTgsxIeCzIpo"></script>
 </body>
 
 <hr style="border:1px solid gray"/> 
