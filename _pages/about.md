@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hello World! I am a second year PhD student at the [Department of Computing](https://www.comp.polyu.edu.hk/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interests span the fields of backscatter, structural health monitoring, piezoelectricity, and ultrasonics.
+Hi! I am a PhD student at the [Department of Computing](https://www.comp.polyu.edu.hk/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interests is wireless system and mobile security.
 
-At PolyU, my research is mainly under the supervision of [Dr. Ray Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about), who leads a research team called Tagsys. Prior to that, I obtained my bachelor's and master's degree at [Xidian University](https://en.xidian.edu.cn/) in computer science and cyberspace security, respectively. At XDU, I work closely with [Dr. Hui Li](https://lihuixidian.github.io/) for 3 years.
+At PolyU, my chief supervisor is [Dr. Ray Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about), who leads a research team called Tagsys. Prior to that, I obtained my bachelor's [Sun Yat-sen University University](https://www.sysu.edu.cn/) in electrical engineering.
 
-<i>Victory belongs to the most tenacious!</i>
+<i>There is no royal road to learning.</i>
 
 
 ## My Visitors
