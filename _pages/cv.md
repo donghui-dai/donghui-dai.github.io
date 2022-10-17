@@ -9,37 +9,33 @@ redirect_from:
 
 {% include base_path %}
 
-If you would like to request my CV in pdf version, please feel free to send me an [email](mailto:marcogong22@gmail.com) specifying your purpose.
 ## Research Interest
-* Structural Health Monitoring
-* Backscatter System
-* Piezoelectricity and Ultrasonics
+* Wireless System
+* Mobile Security
 
 ## Education
 
-* B.Eng. in Computer Science and Technology, Xidian University, 2014~2018
-* M.Eng. in Cyberspace Security, Xidian University, 2018~2021
-* Ph.D. in Computing, The Hong Kong Polytechnic University, 2021~2024 (expected)
+* B.Eng. in Electrical Engineering, Sun Yat-sen University, 2016~2020
+* Ph.D. in Computing, The Hong Kong Polytechnic University, 2021~2025 (expected)
 
 
 
 ## Skills List
 
-* Programming Languages: Python=Matlab>C++>Java
-* Languages: Simlified Chinese (Native Speaker), English (Fluent)
-* Activities: Football (Proficient), Piano (Level 6)
+* Programming Languages: Python=Matlab>C++>VHDL>Verilog
+* Languages: Chinese, English
+* Activities: Swimming
 
 
 
 ## Publications
 
-Please check the [Publications](https://marcogong.github.io/publications/) page to see the details of all the publications.
+Please check the [Publications](https://donghui-dai.github.io/publications/) page to see the details of all the publications.
 
 ## Honors and Awards
 
-* Exam-free Recommendation for Postgraduate at Xidian University
-* University-level First Class Scholarship for Postgraduate
-* University-level Scholarships for Undergraduate
+* University-level Scholarships for Undergraduate, Sun Yat-sen University
+* Outstanding Undergraduate Thesis Award, Sun Yat-sen University
 
 
 
