@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student at the [Department of Computing](https://www.comp.polyu.edu.hk/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interests is wireless system and mobile security.
+Hi! I am a PhD student at the [Department of Computing](https://www.comp.polyu.edu.hk/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interests are wireless system and mobile security.
 
 At PolyU, my chief supervisor is [Dr. Ray Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about), who leads a research team called Tagsys. Prior to that, I obtained my bachelor's [Sun Yat-sen University University](https://www.sysu.edu.cn/) in electrical engineering.
 
