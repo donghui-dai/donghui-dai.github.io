@@ -24,7 +24,7 @@ author_profile: true
 <br/>
 [[Paper](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a503/1He7YgoihhK)] [[Website](https://anplus.github.io/magsound/)]
 
-[2] **Demo: Inducing Wireless Chargers to Voice Out**
+[2] **Inducing Wireless Chargers to Voice Out (Best Demo Runner up)**
 <br/>
 **Donghui Dai**, Zhenlin An, Lei Yang
 <br/>
@@ -32,7 +32,7 @@ author_profile: true
 <br/>
 [[Paper](https://donghui-dai.github.io/files/magsound-demo.pdf)]
 
-[3] **Demo: Constructing Smart Buildings with In-concrete Backscatter Networks**
+[3] **Constructing Smart Buildings with In-concrete Backscatter Networks (Best Demo Runner up)**
 <br/>
 Zheng Gong, Zhenlin An, Jingyu Tong, **Donghui Dai**, Lei Yang
 <br/>
