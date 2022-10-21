@@ -28,15 +28,15 @@ author_profile: true
 <br/>
 **Donghui Dai**, Zhenlin An, Lei Yang
 <br/>
-*ACM MobiCom*, 2022, Best Demo Runner up
+*ACM MobiCom*, 2022, <font color="red"> Best Demo Runner up </font>
 <br/>
 [[Paper](https://donghui-dai.github.io/files/magsound-demo.pdf)]
 
-[3] **Demo: Constructing Smart Buildings with In-concrete Backscatter Networks (Best Demo Runner up)**
+[3] **Demo: Constructing Smart Buildings with In-concrete Backscatter Networks**
 <br/>
 Zheng Gong, Zhenlin An, Jingyu Tong, **Donghui Dai**, Lei Yang
 <br/>
-*ACM MobiCom*, 2022, Best Demo Runner up
+*ACM MobiCom*, 2022, <font color="red"> Best Demo Runner up </font>
 <br/>
 [[Paper](https://donghui-dai.github.io/files/EcoCapsule-demo.pdf)]
 
