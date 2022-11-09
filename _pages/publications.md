@@ -30,7 +30,7 @@ author_profile: true
 <br/>
 *ACM MobiCom*, 2022, <font color="red"> Best Demo Award Runner up </font>
 <br/>
-[[Paper](https://donghui-dai.github.io/files/magsound-demo.pdf)]
+[[Paper](https://donghui-dai.github.io/files/magsound-demo.pdf)] [[Award](https://donghui-dai.github.io/files/award.pdf)]
 
 [3] **Demo: Constructing Smart Buildings with In-concrete Backscatter Networks**
 <br/>
