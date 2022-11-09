@@ -28,7 +28,7 @@ author_profile: true
 <br/>
 **Donghui Dai**, Zhenlin An, Lei Yang
 <br/>
-*ACM MobiCom*, 2022, <font color="red"> Best Demo Runner up </font>
+*ACM MobiCom*, 2022, <font color="red"> Best Demo Award Runner up </font>
 <br/>
 [[Paper](https://donghui-dai.github.io/files/magsound-demo.pdf)]
 
@@ -36,7 +36,7 @@ author_profile: true
 <br/>
 Zheng Gong, Zhenlin An, Jingyu Tong, **Donghui Dai**, Lei Yang
 <br/>
-*ACM MobiCom*, 2022, <font color="red"> Best Demo Runner up </font>
+*ACM MobiCom*, 2022, <font color="red"> Best Demo Award Runner up </font>
 <br/>
 [[Paper](https://donghui-dai.github.io/files/EcoCapsule-demo.pdf)]
 
