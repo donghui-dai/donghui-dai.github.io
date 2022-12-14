@@ -18,7 +18,9 @@ redirect_from:
 * B.Eng. in Electrical Engineering, Sun Yat-sen University, 2016~2020
 * Ph.D. in Computing, The Hong Kong Polytechnic University, 2021~2025 (expected)
 
+## Research Experience
 
+* Research Assistant in Dept. of ECE, University of Macau, 2022~2021
 
 ## Skills List
 
@@ -34,7 +36,7 @@ Please check the [Publications](https://donghui-dai.github.io/publications/) pag
 
 ## Honors and Awards
 
-* Best Demo Award Runner-up, ACM Mobicom 2022
+* Two Best Demo Award Runner-up, ACM Mobicom 2022
 * University-level Scholarships for Undergraduate, Sun Yat-sen University
 * Outstanding Undergraduate Thesis Award, Sun Yat-sen University
 
