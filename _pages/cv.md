@@ -20,7 +20,7 @@ redirect_from:
 
 ## Research Experience
 
-* Research Assistant in Dept. of ECE, University of Macau, 2022~2021
+* Research Assistant in Dept. of ECE, University of Macau, 2020~2021
 
 ## Skills List
 
