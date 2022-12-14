@@ -14,7 +14,7 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-## Papers
+## Conference Papers
 
 [1] **Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks** 
 <br/>
@@ -24,6 +24,7 @@ author_profile: true
 <br/>
 [[Paper](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a503/1He7YgoihhK)] [[Website](https://anplus.github.io/magsound/)]
 
+## Demos
 [2] **Demo: Inducing Wireless Chargers to Voice Out**
 <br/>
 **Donghui Dai**, Zhenlin An, Lei Yang
