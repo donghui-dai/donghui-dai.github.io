@@ -22,7 +22,7 @@ author_profile: true
 <br/>
 *IEEE S&P*, 2023 (CCF-A)
 <br/>
-[[Paper](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a503/1He7YgoihhK)] [[Website](https://anplus.github.io/magsound/)]
+[[Paper](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a503/1He7YgoihhK)] [[Website](https://anplus.github.io/magsound/)] [[Project](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/project/magsound)]
 
 ## Demos
 [2] **Demo: Inducing Wireless Chargers to Voice Out**
