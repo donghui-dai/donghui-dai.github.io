@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student at the [Department of Computing](https://www.comp.polyu.edu.hk/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interests are wireless system and mobile security.
+Hi! I am a PhD student at the [Department of Computing](https://www.comp.polyu.edu.hk/), [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/). My research interests are wireless system and mobile security. At HKPU, my chief supervisor is [Dr. Ray Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about).
 
-At HKPU, my chief supervisor is [Dr. Ray Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about). Prior to that, I obtained my bachelor's degree at [Sun Yat-sen University](https://www.sysu.edu.cn/) with major in electrical engineering.
+Prior to that, I obtained my bachelor's degree at [Sun Yat-sen University](https://www.sysu.edu.cn/) with major in electrical engineering under the supervision of [Dr. Peiran Wu](https://seit.sysu.edu.cn/teacher/445).
 
-<i>There is no royal road to learning.</i>
+<i>There's only one corner of the universe you can be sure of improving, and that's your own self.</i>
 
 
 ## Visitors
