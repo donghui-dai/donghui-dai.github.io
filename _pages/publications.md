@@ -24,6 +24,14 @@ author_profile: true
 <br/>
 [[Paper](https://www.computer.org/csdl/proceedings-article/sp/2023/933600a503/1He7YgoihhK)] [[Website](https://anplus.github.io/magsound/)] [[Project](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/project/magsound)]
 
+[2] **MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones** 
+<br/>
+**Donghui Dai**, Zhenlin An, Lei Yang
+<br/>
+*ACM MobiCom*, 2023 (CCF-A)
+<br/>
+[[Paper](https://sigmobile.org/mobicom/2023/accepted.html)] [[Website](https://donghui-dai.github.io/magcode/)]
+
 ## Demos
 [2] **Demo: Inducing Wireless Chargers to Voice Out**
 <br/>
