@@ -47,6 +47,7 @@ Please check the [Publications](https://donghui-dai.github.io/publications/) pag
 * Teaching Assistant: 2021-2022 Semester 1, ENG2003 Information Technology Part II(Database), PolyU
 * Teaching Assistant: 2021-2022 Semester 2, ENG2003 Information Technology Part II(Database), PolyU
 * Teaching Assistant: 2022-2023 Semester 1, ENG2003 Information Technology Part II(Database), PolyU
+* Teaching Assistant: 2022-2023 Semester 2, ENG2003 Information Technology Part II(Database), PolyU
 
 
 <hr style="border:1px solid gray"/> 
