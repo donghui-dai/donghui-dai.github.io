@@ -33,7 +33,7 @@ author_profile: true
 [[Paper](https://sigmobile.org/mobicom/2023/accepted.html)] [[Website](https://donghui-dai.github.io/magcode/)]
 
 ## Demos
-[2] **Demo: Inducing Wireless Chargers to Voice Out**
+[1] **Demo: Inducing Wireless Chargers to Voice Out**
 <br/>
 **Donghui Dai**, Zhenlin An, Lei Yang
 <br/>
@@ -41,7 +41,7 @@ author_profile: true
 <br/>
 [[Paper](https://donghui-dai.github.io/files/magsound-demo.pdf)] [[Award](https://donghui-dai.github.io/files/award.pdf)]
 
-[3] **Demo: Constructing Smart Buildings with In-concrete Backscatter Networks**
+[2] **Demo: Constructing Smart Buildings with In-concrete Backscatter Networks**
 <br/>
 Zheng Gong, Zhenlin An, Jingyu Tong, **Donghui Dai**, Lei Yang
 <br/>
