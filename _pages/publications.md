@@ -30,7 +30,7 @@ author_profile: true
 <br/>
 *ACM MobiCom*, 2023 (CCF-A)
 <br/>
-[[Paper](https://sigmobile.org/mobicom/2023/accepted.html)] [[Website](https://donghui-dai.github.io/magcode/)]
+[[Paper](https://dl.acm.org/doi/10.1145/3570361.3592528)] [[Website](https://donghui-dai.github.io/magcode/)]
 
 ## Demos
 [1] **Demo: Inducing Wireless Chargers to Voice Out**
