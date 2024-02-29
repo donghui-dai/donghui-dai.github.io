@@ -16,19 +16,27 @@ author_profile: true
 {% endfor %}
 ## Conference Papers
 
-[1] **Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks** 
+[1] **RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields** 
 <br/>
-**Donghui Dai**, Zhenlin An, Lei Yang
+**Donghui Dai**, Zhenlin An, Zheng Gong, Qingrui Pan, Lei Yang
 <br/>
-*IEEE S&P*, 2023 (CCF-A)
+*USENIX NSDI*, 2024 (CCF RANK-A Conference)
 <br/>
-[[Paper]([https://www4.comp.polyu.edu.hk/~csyanglei/data/files/magsound-sp23.pdf](https://ieeexplore.ieee.org/document/10179363?source=AUTHORALERT&dld=dGFnc3lzLm9yZw%3D%3D))]  [[Slide](https://github.com/donghui-dai/donghui-dai.github.io/blob/master/files/magsound-oakland23.pptx)] [[Website](https://anplus.github.io/magsound/)]
+[[Paper](https://www.usenix.org/conference/nsdi24/presentation/dai)]
 
-[2] **MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones** 
+[2] **Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks** 
 <br/>
 **Donghui Dai**, Zhenlin An, Lei Yang
 <br/>
-*ACM MobiCom*, 2023 (CCF-A)
+*IEEE S&P*, 2023 (CCF RANK-A Conference)
+<br/>
+[[Paper](https://www4.comp.polyu.edu.hk/~csyanglei/data/files/magsound-sp23.pdf)]  [[Slide](https://github.com/donghui-dai/donghui-dai.github.io/blob/master/files/magsound-oakland23.pptx)] [[Website](https://anplus.github.io/magsound/)]
+
+[3] **MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones** 
+<br/>
+**Donghui Dai**, Zhenlin An, Lei Yang
+<br/>
+*ACM MobiCom*, 2023 (CCF RANK-A Conference)
 <br/>
 [[Paper](https://dl.acm.org/doi/10.1145/3570361.3592528)] [[Website](https://donghui-dai.github.io/magcode/)]
 
