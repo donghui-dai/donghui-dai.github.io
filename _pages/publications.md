@@ -20,7 +20,7 @@ author_profile: true
 <br/>
 **Donghui Dai**, Zhenlin An, Zheng Gong, Qingrui Pan, Lei Yang
 <br/>
-*USENIX NSDI*, 2024 (CCF RANK-A Conference)
+*USENIX NSDI*, 2024 (CCF RANK A)
 <br/>
 [[Paper](https://www.usenix.org/conference/nsdi24/presentation/dai)]
 
@@ -28,7 +28,7 @@ author_profile: true
 <br/>
 **Donghui Dai**, Zhenlin An, Lei Yang
 <br/>
-*IEEE S&P*, 2023 (CCF RANK-A Conference)
+*IEEE S&P*, 2023 (CCF RANK A)
 <br/>
 [[Paper](https://www4.comp.polyu.edu.hk/~csyanglei/data/files/magsound-sp23.pdf)]  [[Slide](https://github.com/donghui-dai/donghui-dai.github.io/blob/master/files/magsound-oakland23.pptx)] [[Website](https://anplus.github.io/magsound/)]
 
@@ -36,9 +36,16 @@ author_profile: true
 <br/>
 **Donghui Dai**, Zhenlin An, Lei Yang
 <br/>
-*ACM MobiCom*, 2023 (CCF RANK-A Conference)
+*ACM MobiCom*, 2023 (CCF RANK A)
 <br/>
 [[Paper](https://dl.acm.org/doi/10.1145/3570361.3592528)] [[Website](https://donghui-dai.github.io/magcode/)]
+
+[4] **Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas** 
+<br/>
+Zheng Gong, Zhenlin An, **Donghui Dai**, Jingyu Tong, Shuijie Long, Lei Yang
+<br/>
+*ACM MobiCom*, 2024 (CCF RANK A)
+<br/>
 
 ## Demos
 [1] **Demo: Inducing Wireless Chargers to Voice Out**
