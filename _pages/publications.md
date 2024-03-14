@@ -54,7 +54,7 @@ Zheng Gong, Zhenlin An, **Donghui Dai**, Jingyu Tong, Shuijie Long, Lei Yang
 <br/>
 *ACM MobiCom*, 2022, <font color="red"> Best Demo Award Runner up </font>
 <br/>
-[[Paper](https://donghui-dai.github.io/files/magsound-demo.pdf)] [[Award](https://donghui-dai.github.io/files/award.pdf)]
+[[Paper](https://donghui-dai.github.io/files/magsound-demo.pdf)]
 
 [2] **Demo: Constructing Smart Buildings with In-concrete Backscatter Networks**
 <br/>
