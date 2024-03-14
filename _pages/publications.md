@@ -38,7 +38,7 @@ author_profile: true
 <br/>
 *ACM MobiCom*, 2023 (CCF RANK A)
 <br/>
-[[Paper](https://dl.acm.org/doi/10.1145/3570361.3592528)] [[Website](https://donghui-dai.github.io/magcode/)]
+[[Paper](https://dl.acm.org/doi/10.1145/3570361.3592528)] [[Slide](https://donghui-dai.github.io/files/MagCode-dai.pptx)] [[Website](https://donghui-dai.github.io/magcode/)]
 
 [4] **Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas** 
 <br/>
