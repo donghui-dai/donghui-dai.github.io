@@ -30,7 +30,7 @@ author_profile: true
 <br/>
 *IEEE S&P*, 2023 (CCF RANK A)
 <br/>
-[[Paper](https://github.com/donghui-dai/donghui-dai.github.io/blob/master/files/magsound-dai.pdf)]  [[Slide](https://github.com/donghui-dai/donghui-dai.github.io/blob/master/files/magsound-oakland23.pptx)] [[Website](https://anplus.github.io/magsound/)]
+[[Paper](https://donghui-dai.github.io/files/magsound-dai.pdf)]  [[Slide](https://github.com/donghui-dai/donghui-dai.github.io/blob/master/files/magsound-oakland23.pptx)] [[Website](https://anplus.github.io/magsound/)]
 
 [3] **MagCode: NFC-Enabled Barcodes for NFC-Disabled Smartphones** 
 <br/>
