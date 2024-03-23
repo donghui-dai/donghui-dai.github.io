@@ -36,6 +36,7 @@ Please check the [Publications](https://donghui-dai.github.io/publications/) pag
 
 ## Honors and Awards
 
+* Student Travel Grant, USENIX NSDI 2024
 * Two Best Demo Award Runner-up, ACM Mobicom 2022
 * University-level Scholarships for Undergraduate, Sun Yat-sen University
 * Outstanding Undergraduate Thesis Award, Sun Yat-sen University
