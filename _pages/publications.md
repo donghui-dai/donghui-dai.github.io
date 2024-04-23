@@ -22,7 +22,7 @@ author_profile: true
 <br/>
 *USENIX NSDI*, 2024 (CCF RANK A)
 <br/>
-[[Paper](https://www.usenix.org/conference/nsdi24/presentation/dai)]
+[[Paper](https://www.usenix.org/conference/nsdi24/presentation/dai)][[Slide](https://donghui-dai.github.io/files/RFIDplus_NSDI24_dai.pdf)]
 
 [2] **Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks** 
 <br/>
