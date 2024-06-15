@@ -17,7 +17,7 @@ My research interests are wireless system and mobile security. Recent works have
 ## Visitors
 
 <body>
-   <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8x3E6LKIF0WA-pryS_j53GNNEBhEaMCRTgsxIeCzIpo&cl=ffffff&w=a"></script>
+  <a href="https://clustrmaps.com/site/1bqv9"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=8x3E6LKIF0WA-pryS_j53GNNEBhEaMCRTgsxIeCzIpo&cl=ffffff" /></a>
 </body>
 
 <hr style="border:1px solid gray"/> 
