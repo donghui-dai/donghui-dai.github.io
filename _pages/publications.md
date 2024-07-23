@@ -47,6 +47,15 @@ Zheng Gong, Zhenlin An, **Donghui Dai**, Jingyu Tong, Shuijie Long, Lei Yang
 *ACM MobiCom*, 2024 (CCF RANK A)
 <br/>
 
+## Journal Papers
+[1] **Harnessing NFC to Generate Standard Optical Barcodes for NFC-Missing Smartphones** 
+<br/>
+**Donghui Dai**, Zhenlin An, Qingrui Pan, Lei Yang
+<br/>
+*IEEE Transactions on Mobile Computing*, 2024 (CCF RANK A)
+<br/>
+[[Paper](https://ieeexplore.ieee.org/abstract/document/10577149)]
+
 ## Demos
 [1] **Demo: Inducing Wireless Chargers to Voice Out**
 <br/>
