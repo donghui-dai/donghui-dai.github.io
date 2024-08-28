@@ -56,6 +56,5 @@ Zheng Gong, Zhenlin An, Jingyu Tong, **Donghui Dai**, Lei Yang
 *ACM MobiCom*, 2022, <font color="red"> Best Demo Award Runner up </font>
 <br/>
 [[Paper](https://donghui-dai.github.io/files/EcoCapsule-demo.pdf)]
-%}
 
 <hr style="border:1px solid gray"/> 
