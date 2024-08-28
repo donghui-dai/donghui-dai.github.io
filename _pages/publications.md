@@ -40,22 +40,6 @@ author_profile: true
 <br/>
 [[Paper](https://dl.acm.org/doi/10.1145/3570361.3592528)] [[Slide](https://donghui-dai.github.io/files/MagCode-dai.pptx)] [[Website](https://donghui-dai.github.io/magcode/)]
 
-[4] **Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas** 
-<br/>
-Zheng Gong, Zhenlin An, **Donghui Dai**, Jingyu Tong, Shuijie Long, Lei Yang
-<br/>
-*ACM MobiCom*, 2024 (CCF RANK A)
-<br/>
-
-## Journal Papers
-[1] **Harnessing NFC to Generate Standard Optical Barcodes for NFC-Missing Smartphones** 
-<br/>
-**Donghui Dai**, Zhenlin An, Qingrui Pan, Lei Yang
-<br/>
-*IEEE Transactions on Mobile Computing*, 2024 (CCF RANK A)
-<br/>
-[[Paper](https://ieeexplore.ieee.org/abstract/document/10577149)]
-
 ## Demos
 [1] **Demo: Inducing Wireless Chargers to Voice Out**
 <br/>
@@ -72,5 +56,6 @@ Zheng Gong, Zhenlin An, Jingyu Tong, **Donghui Dai**, Lei Yang
 *ACM MobiCom*, 2022, <font color="red"> Best Demo Award Runner up </font>
 <br/>
 [[Paper](https://donghui-dai.github.io/files/EcoCapsule-demo.pdf)]
+%}
 
 <hr style="border:1px solid gray"/> 
