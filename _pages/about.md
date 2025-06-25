@@ -20,7 +20,7 @@ redirect_from:
 # 🙋‍♂️ About Me
 Hi! I am Donghui Dai, a Research Assistant Professor at Department of Computing, The Hong Kong Polytechnic University. I earned my Ph.D. degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)🇭🇰 at May 2025, supervised by [Dr. Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about). My research focuses on mobile and sensing technologies for wireless security, backscatter communication, cyber-physical systems, and wireless sensing. I design algorithms and construct systems that connect, perceive, and interact with the environment in innovative ways to enable more efficient, secure, robust, and capable mobile systems.
 
-I have published several papers in top-tier avenues such as USENIX NSDI, ACM MobiCom, IEEE S&P, IEEE TMC, IEEE INFOCOM, and IEEE PerCom. My work has been recognized with accolades such as the Best Demo Award Runner-up at ACM MobiCom. I am passionate about leveraging cutting-edge technologies to solve real-world challenges in wireless communication and security.
+I have published several papers in top-tier avenues such as USENIX NSDI, ACM MobiCom, IEEE S&P, IEEE TMC, IEEE INFOCOM, and UbiComp/ISWC. My work has been recognized with accolades such as the Best Demo Award Runner-up at ACM MobiCom. I am passionate about leveraging cutting-edge technologies to solve real-world challenges in wireless communication and security.
 
 <!-- **<span style="color:red">I am currently on the job market and actively exploring opportunities for postdoctoral research or industry roles.</span>** -->
 
