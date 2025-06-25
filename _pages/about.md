@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🙋‍♂️ About Me
-Hi! I am Donghui Dai, an incoming Research Assistant Professor at The Hong Kong Polytechnic University. I earned my Ph.D. degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)🇭🇰 at May 2025, supervised by [Dr. Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about). My research focuses on mobile and sensing technologies for wireless security, backscatter communication, cyber-physical systems, and wireless sensing. I design algorithms and construct systems that connect, perceive, and interact with the environment in innovative ways to enable more efficient, secure, robust, and capable mobile systems.
+Hi! I am Donghui Dai, a Research Assistant Professor at Department of Computing, The Hong Kong Polytechnic University. I earned my Ph.D. degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)🇭🇰 at May 2025, supervised by [Dr. Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about). My research focuses on mobile and sensing technologies for wireless security, backscatter communication, cyber-physical systems, and wireless sensing. I design algorithms and construct systems that connect, perceive, and interact with the environment in innovative ways to enable more efficient, secure, robust, and capable mobile systems.
 
 I have published several papers in top-tier avenues such as USENIX NSDI, ACM MobiCom, IEEE S&P, IEEE TMC, IEEE INFOCOM, and IEEE PerCom. My work has been recognized with accolades such as the Best Demo Award Runner-up at ACM MobiCom. I am passionate about leveraging cutting-edge technologies to solve real-world challenges in wireless communication and security.
 
@@ -79,25 +79,31 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     In Proc. of *IEEE INFOCOM*, London, UK, May 19-22, 2025. <span style="color: red;">(CCF-A Conference)</span>
 
-6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
+6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">UbiComp 2025</span> Everytime Everywhere All at Once: Enhancing Temporal-Spatial Traceability of Optical Codes through Voltmarks
+
+    Jingyu Tong, **<u>Donghui Dai</u>**, Zheng Gong, Lei Yang
+
+    In Proc. of *UbiComp / ISWC*, Espoo, Finland, Oct 14-16, 2025. <span style="color: red;">(CCF-A Conference)</span>
+
+7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
 
     Yuanhao Feng, **<u>Donghui Dai</u>**, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang
 
     In Proc. of *IEEE PerCom*, Washington, D.C., USA, March 17-21, 2025. <span style="color: red;">(CCF-B Conference)</span>
 
-7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos
+8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos
 
      Shen Wang, Xiaopeng Zhao, **<u>Donghui Dai</u>**, Lei Yang
 
     In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
+9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
 
      Zheng Gong, Zhenlin An, **<u>Donghui Dai</u>**, Jingyu Tong, Shuijie Long, Lei Yang
 
     In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Commercial RFIDs as Reconfigurable Intelligent Surfaces
+10. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Commercial RFIDs as Reconfigurable Intelligent Surfaces
 
      Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, **<u>Donghui Dai</u>**, Zhenlin An, Lei Yang
 
@@ -139,7 +145,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 <!-- # 📖 Educations -->
 # 🎓 Educations
-- *2021.09 - 2025.06 (expected)*, **The Hong Kong Polytechnic University** 
+- *2021.09 - 2025.05*, **The Hong Kong Polytechnic University** 
     - Rank #57 in [QS World University Rankings](https://www.topuniversities.com/universities/hong-kong-polytechnic-university) 2025
     - Ph.D. Student in Computer Science
     - Chief Supervisor: Dr. [Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about)
