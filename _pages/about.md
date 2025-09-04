@@ -22,7 +22,7 @@ Hi! I am Donghui Dai, a Research Assistant Professor at Department of Computing,
 
 I have published several papers in top-tier avenues such as USENIX NSDI, ACM MobiCom, IEEE S&P, IEEE TMC, IEEE INFOCOM, and UbiComp/ISWC. My work has been recognized with accolades such as the Best Demo Award Runner-up at ACM MobiCom. I am passionate about leveraging cutting-edge technologies to solve real-world challenges in wireless communication and security.
 
-<!-- **<span style="color:red">I am currently on the job market and actively exploring opportunities for postdoctoral research or industry roles.</span>** -->
+**<span style="color:red">We are currently recruiting a ​talented research assistant​ to join our team for an interesting research project. Interested candidates are welcome to contact me via email..</span>**
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -30,6 +30,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 # 🔥 News
 <span id="news"></span>
+- *2025.08*: ​Invited to serve as a TPC member for PerCom 2026.​​
 - *2025.06*: Excited to serve as a Publication Chair for [IEEE ISPA 2025](https://www.ieee-ai-for-science.org/2025/ispa/cmt.php) (a CCF-C conference)! Honored to be a Guest Editor for the MDPI Electronics Special Issue, “[Neural Networks: From Software to Hardware](https://www.mdpi.com/journal/electronics/special_issues/5Z670SX8UW).”
 - *2024.12*: &nbsp;🎉🎉 Two papers have been accepted at *IEEE INFOCOM 2025*. One paper has been accepted at *IEEE PerCom 2025*.
 - *2024.07*: &nbsp;🎉🎉 Our paper on physical side-channel communication systems has been accepted for publication in *IEEE TMC*.  
