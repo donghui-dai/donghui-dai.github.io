@@ -174,6 +174,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 - Publication Chair for IEEE ISPA 2025
 - Guest Editor for MDPI Electronics Special Issues
+- Reviewer for IEEE Transactions on Dependable and Secure Computing
 - Reviewer for IEEE Internet of Things Journal
 - Reviewer for IEEE Network Magazine
 - Reviewer for IEEE Open Journal of the Computer Society
