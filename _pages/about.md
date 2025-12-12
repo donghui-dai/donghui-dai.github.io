@@ -87,25 +87,33 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     In Proc. of *UbiComp / ISWC*, Espoo, Finland, Oct 14-16, 2025. <span style="color: red;">(CCF-A Conference)</span>
 
-7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
+7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2025</span> Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing
+
+    Yuanhao Feng, **<u>Donghui Dai</u>**, Jinyang Huang, Panlong Yang, Xiang-Yang Li, Feiyu Han, Lei Yang 
+
+    In *IEEE Transactions on Mobile Computing*, 2025. <span style="color: red;">(CCF-A Journal)</span>
+
+    [[**Paper**](https://ieeexplore.ieee.org/document/11277407/)]
+
+8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
 
     Yuanhao Feng, **<u>Donghui Dai</u>**, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang
 
     In Proc. of *IEEE PerCom*, Washington, D.C., USA, March 17-21, 2025. <span style="color: red;">(CCF-B Conference)</span>
 
-8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos
+9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos
 
      Shen Wang, Xiaopeng Zhao, **<u>Donghui Dai</u>**, Lei Yang
 
     In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
+10. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
 
      Zheng Gong, Zhenlin An, **<u>Donghui Dai</u>**, Jingyu Tong, Shuijie Long, Lei Yang
 
     In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-10. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Commercial RFIDs as Reconfigurable Intelligent Surfaces
+11. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Commercial RFIDs as Reconfigurable Intelligent Surfaces
 
      Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, **<u>Donghui Dai</u>**, Zhenlin An, Lei Yang
 
