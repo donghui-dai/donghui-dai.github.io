@@ -30,6 +30,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 # 🔥 News
 <span id="news"></span>
+- *2025.12*: Honored with the COMP PhD Thesis Merit Award.​​ One paper has been accepted at ACM MobiCom 2026.
 - *2025.08*: ​Invited to serve as a TPC member for PerCom 2026.​​
 - *2025.06*: Excited to serve as a Publication Chair for [IEEE ISPA 2025](https://www.ieee-ai-for-science.org/2025/ispa/cmt.php) (a CCF-C conference)! Honored to be a Guest Editor for the MDPI Electronics Special Issue, “[Neural Networks: From Software to Hardware](https://www.mdpi.com/journal/electronics/special_issues/5Z670SX8UW).”
 - *2024.12*: &nbsp;🎉🎉 Two papers have been accepted at *IEEE INFOCOM 2025*. One paper has been accepted at *IEEE PerCom 2025*.
@@ -147,6 +148,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.12* COMP PhD Thesis Merit Award, The Hong Kong Polytechnic University 
 - *2024.07* Nomination for Schmidt Science Fellows, The Hong Kong Polytechnic University 
 - *2024.04* Student Travel Grant, USENIX NSDI 2024
 - *2022.10* Two Best Demo Award Runner-up (2/20), ACM MobiCom 2022
@@ -171,11 +173,13 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 - *2023.07*, "Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks", PolyU COMP Research Student Seminar, host: Dr. Lei Yang
 
 # 🧑‍🏫 Teaching
+-  Lecturer: COMP5311  Internet Infrastructure and Protocols, PolyU
+  Fall 2025
 
-- Teaching Assistant at HK PolyU, ENG2003 Information Technology Part II (Database)  
+- Teaching Assistant: ENG2003 Information Technology Part II (Database), PolyU
   Fall 2021, Spring 2022, Spring 2023, Spring 2024
 
-- Teaching Assistant at HK PolyU, COMP5322 Internet Computing and Applications  
+- Teaching Assistant: COMP5322 Internet Computing and Applications, PolyU  
   Fall 2022, Fall 2023, Fall 2024
 
 # 💻 Academic Services
