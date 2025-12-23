@@ -168,6 +168,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 # 💬 Invited Talks
 
 <span id="invited-talks"></span>
+- *2025.10*, "从通信到感知: 神经射频辐射场的理论与应用", CNCC2025, host: Prof. Daqing Zhang
 - *2024.08*, "Unlocking the Power of Electromagnetic Interference in Mobile Computing", Central South University, host: Prof. Qilong Feng
 - *2023.12*, "NFC-Enabled Barcodes for NFC-Disabled Smartphones", Beihang University, host: Dr. Haohua Du
 - *2023.07*, "Inducing Wireless Chargers to Voice Out for Inaudible Command Attacks", PolyU COMP Research Student Seminar, host: Dr. Lei Yang
