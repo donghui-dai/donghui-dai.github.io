@@ -30,9 +30,9 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 # 🔥 News
 <span id="news"></span>
-- *2025.12*: Honored with the COMP PhD Thesis Merit Award.​​ One paper has been accepted at ACM MobiCom 2026.
-- *2025.08*: ​Invited to serve as a TPC member for PerCom 2026.​​
-- *2025.06*: Excited to serve as a Publication Chair for [IEEE ISPA 2025](https://www.ieee-ai-for-science.org/2025/ispa/cmt.php) (a CCF-C conference)! Honored to be a Guest Editor for the MDPI Electronics Special Issue, “[Neural Networks: From Software to Hardware](https://www.mdpi.com/journal/electronics/special_issues/5Z670SX8UW).”
+- *2025.12*: &nbsp;🏆 Honored with the 🌟COMP PhD Thesis Merit Award🌟.​​ One paper has been accepted at *ACM MobiCom 2026*.
+- *2025.08*: &nbsp;​Invited to serve as a TPC member for PerCom 2026.​​
+- *2025.06*: &nbsp;Excited to serve as a Publication Chair for [IEEE ISPA 2025](https://www.ieee-ai-for-science.org/2025/ispa/cmt.php) (a CCF-C conference)! Honored to be a Guest Editor for the MDPI Electronics Special Issue, “[Neural Networks: From Software to Hardware](https://www.mdpi.com/journal/electronics/special_issues/5Z670SX8UW).”
 - *2024.12*: &nbsp;🎉🎉 Two papers have been accepted at *IEEE INFOCOM 2025*. One paper has been accepted at *IEEE PerCom 2025*.
 - *2024.07*: &nbsp;🎉🎉 Our paper on physical side-channel communication systems has been accepted for publication in *IEEE TMC*.  
 - *2024.04*: &nbsp;🎉🎉 We are delighted to share that our paper on RFID inventory systems has been accepted at *USENIX NSDI 2024*.  
