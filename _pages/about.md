@@ -79,7 +79,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2026</span> SIGN-RF: Self-Adaptive Neural Fields for Scalable Urban Radio Reconstruction  
 
-    Shen Wang, Guosheng Wang, Junyang Liu, <b><u>Donghui Dai</u></b><sup>✉</sup>, Lei Yang （corresponding author<sup>✉</sup>）
+    Shen Wang, Guosheng Wang, Junyang Liu, <b><u>Donghui Dai</u></b><sup>✉</sup>, Lei Yang 
 
     In Proc. of <i>IEEE INFOCOM</i>, Tokyo, Japan, 18–21 May, 2026. <span style="color: red;">(CCF-A Conference)</span>
 
