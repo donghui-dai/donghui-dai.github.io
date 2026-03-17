@@ -30,9 +30,9 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 # 🔥 News
 <span id="news"></span>
-- *2026.01*: &nbsp;​Invited to serve as a TPC member for EAI MobiQuitous 2026.
+- *2026.03*: &nbsp; 🎉🎉 Two papers have been accepted at IEEE SECON (CCF-B). Looking forward to meeting everyone in Pisa, Italy.
 - *2025.12*: &nbsp;🏆🏆 Honored with the PolyU COMP PhD Thesis Merit Award.​​ One paper has been accepted at *ACM MobiCom 2026*.
-- *2025.08*: &nbsp;​Invited to serve as a TPC member for PerCom 2026.
+- *2025.08*: &nbsp;​Invited to serve as a TPC member for PerCom 2026. ​Invited to serve as a TPC member for EAI MobiQuitous 2026.
 - *2025.06*: &nbsp;Excited to serve as a Publication Chair for [IEEE ISPA 2025](https://www.ieee-ai-for-science.org/2025/ispa/cmt.php) (a CCF-C conference)! Honored to be a Guest Editor for the MDPI Electronics Special Issue, “[Neural Networks: From Software to Hardware](https://www.mdpi.com/journal/electronics/special_issues/5Z670SX8UW).”
 - *2024.12*: &nbsp;🎉🎉 Two papers have been accepted at *IEEE INFOCOM 2025*. One paper has been accepted at *IEEE PerCom 2025*.
 - *2024.07*: &nbsp;🎉🎉 Our paper on physical side-channel communication systems has been accepted for publication in *IEEE TMC*.  
@@ -77,25 +77,31 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     [[**Paper**](https://ieeexplore.ieee.org/document/10577149)]
 
-5. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2026</span> SIGN-RF: Self-Adaptive Neural Fields for Scalable Urban Radio Reconstruction  
+5. <span style="display: inline-block; background-color: #ac2326; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">SECON 2026</span> Augmented Communication Reliability for UHF RFID Systems via Polar-Coded EPCs
 
-    Shen Wang, Guosheng Wang, Junyang Liu, <b><u>Donghui Dai</u></b>, Lei Yang 
+    **<u>Donghui Dai</u>**, Jingyu Tong, Zheng Gong, Xiaopeng Zhao, Lei Yang
+
+    In Proc. of *IEEE SECON*, Pisa, Italy, June 02-06, 2026. <span style="color: red;">(CCF-B Conference)</span>
+
+6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2026</span> SIGN-RF: Self-Adaptive Neural Fields for Scalable Urban Radio Reconstruction  
+
+    Shen Wang, Guosheng Wang, Junyang Liu, <b><u>Donghui Dai</u></b><sup>✉</sup>, Lei Yang 
 
     In Proc. of <i>IEEE INFOCOM</i>, Tokyo, Japan, 18–21 May, 2026. <span style="color: red;">(CCF-A Conference)</span>
 
-6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Repurposing Optical Mice for Acoustic Eavesdropping
+7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Repurposing Optical Mice for Acoustic Eavesdropping
 
     Zhimin Mei, **<u>Donghui Dai</u>**, Jingyu Tong, Zheng Gong, Lei Yang
 
     In Proc. of *IEEE INFOCOM*, London, UK, May 19-22, 2025. <span style="color: red;">(CCF-A Conference)</span>
 
-7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">UbiComp 2025</span> Everytime Everywhere All at Once: Enhancing Temporal-Spatial Traceability of Optical Codes through Voltmarks
+8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">UbiComp 2025</span> Everytime Everywhere All at Once: Enhancing Temporal-Spatial Traceability of Optical Codes through Voltmarks
 
     Jingyu Tong, **<u>Donghui Dai</u>**, Zheng Gong, Lei Yang
 
     In Proc. of *UbiComp / ISWC*, Espoo, Finland, Oct 14-16, 2025. <span style="color: red;">(CCF-A Conference)</span>
 
-8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2025</span> Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing
+9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2025</span> Battery-Free Monitoring of Micron-Level Vibrations with Sub-Hertz Frequency Accuracy: Toward Robust and Accurate Industrial Sensing
 
     Yuanhao Feng, **<u>Donghui Dai</u>**, Jinyang Huang, Panlong Yang, Xiang-Yang Li, Feiyu Han, Lei Yang 
 
@@ -103,25 +109,25 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     [[**Paper**](https://ieeexplore.ieee.org/document/11277407/)]
 
-9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
+10. <span style="display: inline-block; background-color: #ac2326; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">PerCom 2025</span> Deciphering Micro-Scale, Sub-Hertz Mechanical Vibrations in Industry 4.0: A Battery-Free Sensing Approach
 
     Yuanhao Feng, **<u>Donghui Dai</u>**, Xiaopeng Zhao, Jingyu Tong, Zheng Gong, Lei Yang
 
     In Proc. of *IEEE PerCom*, Washington, D.C., USA, March 17-21, 2025. <span style="color: red;">(CCF-B Conference)</span>
 
-10. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos
+11. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Mirror Never Lies: Unveiling Reflective Privacy Risks in Glass-laden Short Videos
 
      Shen Wang, Xiaopeng Zhao, **<u>Donghui Dai</u>**, Lei Yang
 
     In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-11. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
+12. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">MobiCom 2024</span> Enabling Cross-Medium Wireless Networks with Miniature Mechanical Antennas
 
      Zheng Gong, Zhenlin An, **<u>Donghui Dai</u>**, Jingyu Tong, Shuijie Long, Lei Yang
 
     In Proc. of *ACM MobiCom*, Washington, D.C., USA, Oct 1-5, 2024. <span style="color: red;">(CCF-A Conference)</span>
 
-12. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Commercial RFIDs as Reconfigurable Intelligent Surfaces
+13. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Commercial RFIDs as Reconfigurable Intelligent Surfaces
 
      Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, **<u>Donghui Dai</u>**, Zhenlin An, Lei Yang
 
