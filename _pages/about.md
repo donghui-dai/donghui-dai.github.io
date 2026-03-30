@@ -30,6 +30,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 # 🔥 News
 <span id="news"></span>
+- *2026.03*: &nbsp; ​Invited to serve as a TPC member for IEEE MASS 2026.
 - *2026.03*: &nbsp; 🎉🎉 Two papers have been accepted at IEEE SECON (CCF-B). Looking forward to meeting everyone in Pisa, Italy.
 - *2025.12*: &nbsp;🏆🏆 Honored with the PolyU COMP PhD Thesis Merit Award.​​ One paper has been accepted at *ACM MobiCom 2026*.
 - *2025.08*: &nbsp;​Invited to serve as a TPC member for PerCom 2026. ​Invited to serve as a TPC member for EAI MobiQuitous 2026.
