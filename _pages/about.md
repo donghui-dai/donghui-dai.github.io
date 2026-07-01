@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 🙋‍♂️ About Me
-Hi! I am Donghui Dai, a Research Assistant Professor at Department of Computing, The Hong Kong Polytechnic University. I earned my Ph.D. degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)🇭🇰 at May 2025. My research focuses on mobile and sensing technologies for wireless security, backscatter communication, cyber-physical systems, and wireless sensing. I design algorithms and construct systems that connect, perceive, and interact with the environment in innovative ways to enable more efficient, secure, robust, and capable mobile systems.
+Hi! I am Donghui Dai, a Research Assistant Professor at Department of Computing, The Hong Kong Polytechnic University. I obtained my Ph.D. degree in Computer Science at [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/en/)🇭🇰 at May 2025. My research focuses on mobile and sensing technologies for wireless security, backscatter communication, cyber-physical systems, and wireless sensing. I design algorithms and construct systems that connect, perceive, and interact with the environment in innovative ways to enable more efficient, secure, robust, and capable mobile systems.
 
 I have published several papers in top-tier avenues such as USENIX NSDI, ACM MobiCom, IEEE S&P, IEEE TMC, IEEE INFOCOM, and UbiComp/ISWC. My work has been recognized with accolades such as the Best Demo Award Runner-up at ACM MobiCom. I am passionate about leveraging cutting-edge technologies to solve real-world challenges in wireless communication and security.
 
-**<span style="color:red">We are currently recruiting research assistants​ to join our team for an interesting research project. Taught postgraduate (MSc) students are especially welcome to apply. Interested candidates are welcome to contact me via email.</span>**
+**<span style="color:red">We are currently recruiting research assistants​ to join our team for some interesting research projects. Interested candidates are welcome to contact me via email.</span>**
 
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
@@ -30,6 +30,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 # 🔥 News
 <span id="news"></span>
+- *2026.06*: 🎉🎉 One paper has been accepted at IEEE Internet of Things Journal. 
 - *2026.03*: &nbsp; ​Invited to serve as a TPC member for IEEE MASS 2026.
 - *2026.03*: &nbsp; 🎉🎉 Two papers have been accepted at IEEE SECON (CCF-B). Looking forward to meeting everyone in Pisa, Italy.
 - *2025.12*: &nbsp;🏆🏆 Honored with the PolyU COMP PhD Thesis Merit Award.​​ One paper has been accepted at *ACM MobiCom 2026*.
@@ -90,11 +91,18 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     In Proc. of <i>IEEE INFOCOM</i>, Tokyo, Japan, 18–21 May, 2026. <span style="color: red;">(CCF-A Conference)</span>
 
+
 7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> Toward Scalable Reconfigurable Intelligent Surfaces Using Commercial RFIDs
 
     Jingyu Tong, Xiaopeng Zhao, Zhicheng Wang, <b><u>Donghui Dai</u></b><sup>✉</sup>, Zheng Gong, Zhenlin An, Lei Yang
 
     In *IEEE Transactions on Mobile Computing*, pp. 1-16, 2026. <span style="color: red;">(CCF-A Journal)</span>
+
+8. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">IOTJ 2026</span> From Magnetic to Optical: NFC-to-Camera Side-Channel Communication via Standards-Compliant Barcodes  
+
+    Cheng Peng, <b><u>Donghui Dai</u></b><sup>✉</sup>, Lei Yang 
+
+    In *IEEE Internet of Things Journal*, pp. 1-21, 2026. 
 
 8. <span style="display: inline-block; background-color: #ac2326; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">SECON 2026</span> Emotion-Aware Personalization: Resonating Short-Video Recommendations via Multi-Modal Affective Computing
 
@@ -102,7 +110,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     In Proc. of *IEEE SECON*, Pisa, Italy, June 02-06, 2026. <span style="color: red;">(CCF-B Conference)</span>
 
-9. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Repurposing Optical Mice for Acoustic Eavesdropping
+9.  <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2025</span> Repurposing Optical Mice for Acoustic Eavesdropping
 
     Zhimin Mei, **<u>Donghui Dai</u>**, Jingyu Tong, Zheng Gong, Lei Yang
 
@@ -182,13 +190,41 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 <!-- # 📖 Educations -->
 # 🎓 Educations
-- *2021.09 - 2025.05*, **The Hong Kong Polytechnic University** 
-    - Rank #57 in [QS World University Rankings](https://www.topuniversities.com/universities/hong-kong-polytechnic-university) 2025
-    - Ph.D. Student in Computer Science
-    - Chief Supervisor: Dr. [Lei Yang](https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about)
-- *2016.09 - 2020.07*, **Sun Yat-sen University**
-    - B.E. degree in Electrical Engineering
-    - Chief Supervisor: Dr. [Peiran Wu](https://ieeexplore.ieee.org/author/38236551200)
+
+<div style="display: flex; flex-direction: column; gap: 0.35em;">
+
+<div>
+<div style="display: flex; align-items: center; gap: 0.35em;">
+<div style="width: 35px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+<img src="/images/polyu-logo.png" alt="The Hong Kong Polytechnic University logo" style="max-height: 35px; width: auto; display: block;">
+</div>
+<ul style="margin: 0; padding-left: 1.2em; flex: 1;">
+<li style="margin: 0;"><em>2021.09 - 2025.05</em>, <strong>The Hong Kong Polytechnic University</strong></li>
+</ul>
+</div>
+<ul style="margin: 0.35em; padding-left: calc(30px + 0.35em + 2.2em);">
+<li>Rank #50 in <a href="https://www.polyu.edu.hk/media/media-releases/2026/0618_polyu-rises-steadily-in-the-latest-qs-world-university-rankings-global-top-50/">QS World University Rankings</a> 2027</li>
+<li>Ph.D. Student in Computer Science</li>
+<li>Chief Supervisor: Dr. <a href="https://www4.comp.polyu.edu.hk/~csyanglei/#/pages/profile/about">Lei Yang</a></li>
+</ul>
+</div>
+
+<div>
+<div style="display: flex; align-items: center; gap: 0.35em;">
+<div style="width: 35px; flex-shrink: 0; display: flex; align-items: center; justify-content: center;">
+<img src="/images/sysu-logo.png" alt="Sun Yat-sen University logo" style="max-height: 35px; width: auto; display: block;">
+</div>
+<ul style="margin: 0; padding-left: 1.2em; flex: 1;">
+<li style="margin: 0;"><em>2016.09 - 2020.07</em>, <strong>Sun Yat-sen University</strong></li>
+</ul>
+</div>
+<ul style="margin: 0.35em; padding-left: calc(30px + 0.35em + 2.2em);">
+<li>B.E. degree in Electrical Engineering</li>
+<li>Chief Supervisor: Dr. <a href="https://ieeexplore.ieee.org/author/38236551200">Peiran Wu</a></li>
+</ul>
+</div>
+
+</div>
 
 # 💬 Invited Talks
 
@@ -205,8 +241,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 - Teaching Assistant: ENG2003 Information Technology Part II (Database), PolyU
   Fall 2021, Spring 2022, Spring 2023, Spring 2024
 
-- Teaching Assistant: COMP5322 Internet Computing and Applications, PolyU  
-  Fall 2022, Fall 2023, Fall 2024
+- Teaching Assistant: COMP5322 Internet Computing and Applications, PolyU  Fall 2022, Fall 2023, Fall 2024
 
 # 💻 Academic Services
 
@@ -270,27 +305,10 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 ## Visitors
 <body>
   <div style="width: 300px; height: 200px; overflow: hidden;">
-    <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=8x3E6LKIF0WA-pryS_j53GNNEBhEaMCRTgsxIeCzIpo&cl=ffffff&w=a"></script>
+<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=-y2azNNYr0Si_kjmbIDpXzlJ4csqQ71TJGykS7hNsw0&cl=ffffff&w=a"></script>
   </div>
 </body>
 
-<body>
-    <!-- Default Statcounter code for My Academic Homepage
-    https://donghui-dai.github.io/ -->
-    <script type="text/javascript">
-    var sc_project=13074655; 
-    var sc_invisible=0; 
-    var sc_security="a0a15152"; 
-    var scJsHost = "https://";
-    document.write("<sc"+"ript type='text/javascript' src='" + scJsHost+
-    "statcounter.com/counter/counter.js'></"+"script>");
-    </script>
-    <noscript><div class="statcounter"><a title="free hit counter"
-    href="https://statcounter.com/" target="_blank"><img class="statcounter"
-    src="https://c.statcounter.com/13074655/0/a0a15152/0/" alt="free hit counter"
-    referrerPolicy="no-referrer-when-downgrade"></a></div></noscript>
-    <!-- End of Statcounter Code -->
-</body>
 
 <!-- # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
