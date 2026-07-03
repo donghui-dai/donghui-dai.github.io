@@ -93,6 +93,8 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     In Proc. of <i>IEEE INFOCOM</i>, Tokyo, Japan, 18–21 May, 2026. <span style="color: red;">(CCF-A Conference)</span>
 
+    [[**Paper**](https://ieeexplore.ieee.org/document/11571284)]
+
 
 7. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">TMC 2026</span> Toward Scalable Reconfigurable Intelligent Surfaces Using Commercial RFIDs
 
