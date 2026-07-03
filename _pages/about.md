@@ -85,6 +85,8 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
     In Proc. of *IEEE SECON*, Pisa, Italy, June 02-06, 2026. <span style="color: red;">(CCF-B Conference)</span>
 
+    [[**Paper**](https://ieeexplore.ieee.org/document/11579210)] 
+
 6. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">INFOCOM 2026</span> SIGN-RF: Self-Adaptive Neural Fields for Scalable Urban Radio Reconstruction  
 
     Shen Wang, Guosheng Wang, Junyang Liu, <b><u>Donghui Dai</u></b><sup>✉</sup>, Lei Yang 
@@ -103,6 +105,8 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
     Cheng Peng, <b><u>Donghui Dai</u></b><sup>✉</sup>, Lei Yang 
 
     In *IEEE Internet of Things Journal*, pp. 1-21, 2026. 
+
+    [[**Paper**](https://doi.org/10.1109/JIOT.2026.3709665)] 
 
 8. <span style="display: inline-block; background-color: #ac2326; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">SECON 2026</span> Emotion-Aware Personalization: Resonating Short-Video Recommendations via Multi-Modal Affective Computing
 
