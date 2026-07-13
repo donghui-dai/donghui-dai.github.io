@@ -45,7 +45,7 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 # 📝 Publications 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NSDI 2024</div><img src='../images/RFID-NDSI.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1"> -->
-### Regular Articles
+### Regular Articles  (<sup>✉</sup>corresponding author)
 
 1. <span style="display: inline-block; background-color: #172088; color: white; padding: 1.5px 6px; border-radius: 3px; font-weight: bold; line-height: 100%;">NSDI 2024</span> RFID+: Spatially Controllable Identification of UHF RFIDs via Controlled Magnetic Fields
 
@@ -264,49 +264,74 @@ I have published several papers in top-tier avenues such as USENIX NSDI, ACM Mob
 
 # 🎬 Demonstration Videos
 
-<body>
 <div style="display: flex; justify-content: space-between; flex-wrap: wrap; gap: 20px;">
-  <!-- 第一个视频 -->
+
+  <!-- NFC-to-Camera Demo -->
   <div style="flex: 1; min-width: 300px;">
-    <div>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/JoX5p2UUaE0?si=upu9UPpEhs2bO5EX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    </div>
+    <a href="https://pc-jack-poly.github.io/NFC2Camera/"
+       target="_blank"
+       rel="noopener noreferrer"
+       style="display: block; text-decoration: none;">
+      <img src="{{ '/images/NFC2Camera-cover.png?v=2' | relative_url }}"
+           alt="NFC-to-Camera Mobile Payment demo cover"
+           style="width: 420px; height: 236px; max-width: 100%; object-fit: contain; border: 1px solid #ccc; border-radius: 6px; display: block; margin: 0 auto;">
+    </a>
+
     <h3 style="
-  text-align: center; 
-  font-size: 16px; 
-  margin-bottom: 10px; 
-  background-color: #21477D; 
-  color: white; 
-  padding: 8px; 
-  border-radius: 3px;
-  font-family: '黑体', 'SimHei', sans-serif;
-">
-  NFC-to-Camera Mobile Payment
-</h3>
-    <!-- <h3 style="text-align: center; font-size: 16px; ">[NFC-enabled Side Channel Communication]</h3> -->
+      text-align: center;
+      width: 420px;
+      max-width: 100%;
+      box-sizing: border-box;
+      margin-left: auto;
+      margin-right: auto;
+      font-size: 16px;
+      margin-bottom: 10px;
+      background-color: #21477D;
+      color: white;
+      padding: 8px;
+      border-radius: 3px;
+      font-family: '黑体', 'SimHei', sans-serif;
+    ">
+      NFC-to-Camera Mobile Payment
+    </h3>
   </div>
 
-  <!-- 第二个视频 -->
-  <div style="flex: 1; min-width: 300px;">
-    <div>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/oU4hSGAzZCU?si=JK14vWAT6EEiR-Gt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <!-- Magnetic-inductive Voice Attack Demo -->
+  <div style="flex: 1; min-width: 300px; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 420px; height: 236px; max-width: 100%; overflow: hidden; border-radius: 6px;">
+      <iframe
+        src="https://www.youtube.com/embed/oU4hSGAzZCU?si=JK14vWAT6EEiR-Gt"
+        title="Magnetic-inductive Inaudible Voice Attacks"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        referrerpolicy="strict-origin-when-cross-origin"
+        allowfullscreen
+        style="width: 420px; height: 236px; max-width: 100%; border: 0; display: block;">
+      </iframe>
     </div>
+
     <h3 style="
-  text-align: center; 
-  font-size: 16px; 
-  margin-bottom: 10px; 
-  background-color: #841D0F; 
-  color: white; 
-  padding: 8px; 
-  border-radius: 3px;
-  font-family: '黑体', 'SimHei', sans-serif;
-">
-  Magnetic-inductive Inaduibe Voice Attacks
-</h3>
-    <!-- <h3 style="text-align: center; font-size: 16px; ">[Magnetic-inductive Inaduibe Voice Attacks]</h3> -->
+      text-align: center;
+      width: 420px;
+      max-width: 100%;
+      box-sizing: border-box;
+      font-size: 16px;
+      margin-top: 12px;
+      margin-bottom: 10px;
+      background-color: #841D0F;
+      color: white;
+      padding: 8px;
+      border-radius: 3px;
+      font-family: '黑体', 'SimHei', sans-serif;
+      position: relative;
+      z-index: 1;
+    ">
+      Magnetic-inductive Inaudible Voice Attacks
+    </h3>
   </div>
+
 </div>
-</body>
+
 
 ## Visitors
 <body>
